@@ -1,1 +1,1 @@
-cat / proc / modules
+cat /proc/modules
