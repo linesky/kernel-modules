@@ -1,1 +1,2 @@
-cat /proc/modules
+echo $(uname -r)
+ls -l /proc/modules
