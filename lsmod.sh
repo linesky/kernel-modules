@@ -1,2 +1,3 @@
+printf "\ec\e[47;30m\n"
 echo $(uname -r)
-ls -l /proc/modules
+cat /proc/modules
