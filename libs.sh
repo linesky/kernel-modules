@@ -1,2 +1,2 @@
-printf "\ec\e[47;30m\n"
+printf "\ec\e[43;37m\n"
 ls /usr/lib
